@@ -1,0 +1,11 @@
+appdirs==1.4.3
+distlib==0.3.0
+falcon==2.0.0
+filelock==3.0.12
+importlib-metadata==1.6.0
+importlib-resources==1.5.0
+pywin32==227
+six==1.14.0
+virtualenv==20.0.20
+waitress==1.4.3
+zipp==3.1.0
